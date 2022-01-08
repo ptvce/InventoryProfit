@@ -10,7 +10,7 @@
 </p>
 <br />
 
-<img src="profit.PNG" align="right" />
+<img src="profit.PNG" align="right" size=20% />
 
 ## Key Features
 
